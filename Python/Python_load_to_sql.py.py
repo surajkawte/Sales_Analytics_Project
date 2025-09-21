@@ -14,7 +14,7 @@ from sqlalchemy import create_engine, text
 
 # CONFIGURATION
 SERVER = "enter_your_server_here"
-DATA_FOLDER = "C:enter_your_path_here\data"
+DATA_FOLDER = "enter_your_path_here\data"
 DB_NAME = "EnterYourDatabaseName"
 
 # Optional: chunk size for bulk insert
